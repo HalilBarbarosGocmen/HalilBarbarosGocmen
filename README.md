@@ -2,6 +2,8 @@
 
 
 
+
+
 <h1 align="center">Hi 👋, I'm Halil Barbaros Göçmen</h1>
 <h4 align="center">Hello, I have been deeply interested in computers and technology since my childhood. When I started my studies
 in the Construction Technology department at university, I couldn't have predicted that my interest in computers
