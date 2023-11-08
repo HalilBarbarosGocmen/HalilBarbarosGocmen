@@ -2,8 +2,6 @@
 
 
 
-
-
 <h1 align="center">Hi 👋, I'm Halil Barbaros Göçmen</h1>
 <h4 align="center">Hello, I have been deeply interested in computers and technology since my childhood. When I started my studies
 in the Construction Technology department at university, I couldn't have predicted that my interest in computers
@@ -18,17 +16,11 @@ software. I am driven by a dedicated commitment to improving my skills and a pas
 improvement. Best regards.</h4>
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilbarbarosgocmen&label=Profile%20Views&color=0e75b6&style=flat" alt="halilbarbarosgocmen" /> </p>
-
-
-
 
 
 - 📫 How to reach me **halilbarbarosg@gmail.com**
 - 👨‍💻 All of my projects are available at [http://halilbarbarosgocmen.com/](http://halilbarbarosgocmen.com/)
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -37,8 +29,6 @@ improvement. Best regards.</h4>
 <a href="https://linkedin.com/in/halilbarbarosgocmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halilbarbarosgocmen" height="30" width="40" /></a>
 <a href="https://instagram.com/hali̇lbarbarosgocmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hali̇lbarbarosgocmen" height="30" width="40" /></a>
 </p>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
