@@ -20,7 +20,7 @@ improvement. Best regards.</h4>
 
 
 - 📫 How to reach me **halilbarbarosg@gmail.com**
-- 👨‍💻 All of my projects are available at [http://halilbarbarosgocmen.com/](http://halilbarbarosgocmen.com/)
+- 👨‍💻 Al of my projects are available at [http://halilbarbarosgocmen.com/](http://halilbarbarosgocmen.com/)
 
 
 <h3 align="left">Connect with me:</h3>
