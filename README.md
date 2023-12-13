@@ -15,7 +15,6 @@ university education in the Computer Programming department to enhance my techni
 software. I am driven by a dedicated commitment to improving my skills and a passion for continuous self-
 improvement. Best regards.</h4>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilbarbarosgocmen&label=Profile%20Views&color=0e75b6&style=flat" alt="halilbarbarosgocmen" /> </p>
 
 - 📫 How to reach me **halilbarbarosg@gmail.com**
