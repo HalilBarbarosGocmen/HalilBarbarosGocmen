@@ -18,7 +18,6 @@ improvement. Best regards.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilbarbarosgocmen&label=Profile%20Views&color=0e75b6&style=flat" alt="halilbarbarosgocmen" /> </p>
 
-
 - 📫 How to reach me **halilbarbarosg@gmail.com**
 - 👨‍💻 All of my projects are available at [http://halilbarbarosgocmen.com/](http://halilbarbarosgocmen.com/)
 
