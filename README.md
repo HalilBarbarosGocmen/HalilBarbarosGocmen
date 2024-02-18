@@ -14,7 +14,6 @@ improvement. Best regards.</h4>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilbarbarosgocmen&label=Profile%20Views&color=0e75b6&style=flat" alt="halilbarbarosgocmen" /> </p>
-
 - 📫 How to reach me **barbarosgocmendev@gmail.com**
 - 👨‍💻 All of my projects are available at [http://halilbarbarosgocmen.com/](http://halilbarbarosgocmen.com/)
 <h3 align="left">Connect with me:</h3>
