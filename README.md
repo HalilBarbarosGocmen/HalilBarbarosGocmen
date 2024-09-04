@@ -4,7 +4,7 @@
 in the Construction Technology department at university, I couldn't have predicted that my interest in computers
 and technology would eventually become both a profession and a deep-seated passion over the years. After
 graduating, my interest and passion for the software industry continued to grow. I started learning software
-development on my own, and this passion gradually became the focal point of my life. I began learning software
+development on my own,and this passion gradually became the focal point of my life. I began learning software
 development from scratch, and on the 27th day, I started working at a software company, opening a new chapter
 in my life. To further support my progress in the software world, I began studying Business Administration at
 Balıkesir University, aiming to acquire the ability to market my own software projects. Additionally, I started my
